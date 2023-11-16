@@ -1,0 +1,217 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/theme/fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "app/theme/fonts/Entypo.ttf",
+      "sha1": "47870a67dd50871765f799caa97da87219ee47c5"
+    },
+    {
+      "path": "app/theme/fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "app/theme/fonts/Feather.ttf",
+      "sha1": "3eb22bcebf5e6ebd40883e4b92132328c5d6be42"
+    },
+    {
+      "path": "app/theme/fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "app/theme/fonts/FontAwesome5_Brands.ttf",
+      "sha1": "69b73df3c8992a93859246065a267a05bfd8cf56"
+    },
+    {
+      "path": "app/theme/fonts/FontAwesome5_Regular.ttf",
+      "sha1": "9706453c3ea9b73e7c08b3be1e7c716d655cf916"
+    },
+    {
+      "path": "app/theme/fonts/FontAwesome5_Solid.ttf",
+      "sha1": "3f760416638f6459ade7251b80fd7bc27d6ad1c6"
+    },
+    {
+      "path": "app/theme/fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "app/theme/fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Black.ttf",
+      "sha1": "95aa9f4a4bcbf61bdfdb0730b27942410d84dc0c"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Bold.ttf",
+      "sha1": "70239218a723b0b34643b62faad0387c205ecac2"
+    },
+    {
+      "path": "app/theme/fonts/Inter-BoldItalic.ttf",
+      "sha1": "f122195ada0840667e276c78963aa39da60c568f"
+    },
+    {
+      "path": "app/theme/fonts/Inter-ExtraBold.ttf",
+      "sha1": "3ef84ac1fbe5b2a0c88ed7bcb6beb47f5a45ade6"
+    },
+    {
+      "path": "app/theme/fonts/Inter-ExtraBoldItalic.ttf",
+      "sha1": "1db9d0b4ae5c9ce84ebad1c509db11890b659178"
+    },
+    {
+      "path": "app/theme/fonts/Inter-ExtraLight-BETA.ttf",
+      "sha1": "542c156e2b47569e0f8d30f86ff06e26411c61bf"
+    },
+    {
+      "path": "app/theme/fonts/Inter-ExtraLightItalic-BETA.ttf",
+      "sha1": "bc0d032ff5543023009c445ae97dbad55ab6342e"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Italic.ttf",
+      "sha1": "e4d1197681f380cf9050be01e80b0f7cb428ce3f"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Light-BETA.ttf",
+      "sha1": "d948f7dcf520d1fbaab71e47ba4daa69ada6698c"
+    },
+    {
+      "path": "app/theme/fonts/Inter-LightItalic-BETA.ttf",
+      "sha1": "5d572bba29c85b91827ed4abadea1b075f458e81"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Medium.ttf",
+      "sha1": "5853c71ae27d0f5d63c514ccad04efe5ccc32a49"
+    },
+    {
+      "path": "app/theme/fonts/Inter-MediumItalic.ttf",
+      "sha1": "f8b7aec2bcd4366fba8e907e41e36023cadf04bc"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Regular.ttf",
+      "sha1": "8c83a8d0c4ddd7ee4d92f140f4837b893ad6d346"
+    },
+    {
+      "path": "app/theme/fonts/Inter-SemiBold.ttf",
+      "sha1": "e4a5204e8bb54439b43fa4e4a792b29f70bf2268"
+    },
+    {
+      "path": "app/theme/fonts/Inter-SemiBoldItalic.ttf",
+      "sha1": "f281fb2e965fe4e1a5af49fc71793ecbe9775522"
+    },
+    {
+      "path": "app/theme/fonts/Inter-Thin-BETA.ttf",
+      "sha1": "81bd3c5d4b2f4e851c06fdf3fd7c5fd6888ab2cf"
+    },
+    {
+      "path": "app/theme/fonts/Inter-ThinItalic-BETA.ttf",
+      "sha1": "5a8f3b769f11e94c0fd1144430e82588a5b5113f"
+    },
+    {
+      "path": "app/theme/fonts/Inter-UI-BlackItalic.ttf",
+      "sha1": "9e991d26dfbd4372dc1d356155b2ccd542e354d4"
+    },
+    {
+      "path": "app/theme/fonts/Ionicons.ttf",
+      "sha1": "991bb7fac9709cd58da37901770efd4703c542ed"
+    },
+    {
+      "path": "app/theme/fonts/MaterialCommunityIcons.ttf",
+      "sha1": "f46f9604f9091b3e9e7835269673696762e1e87c"
+    },
+    {
+      "path": "app/theme/fonts/MaterialIcons.ttf",
+      "sha1": "fc05de31234e0090f7ddc28ce1b23af4026cb1da"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Black.ttf",
+      "sha1": "b7553074657a5fff0d17afcd5a47c99116c72854"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "39dfc95afd317c6e3daf04f6106cf32e22b2951b"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Bold.ttf",
+      "sha1": "3320ff5514b32565b0396de4f2064ce17ec9eea4"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "3e4f84f047452d1d3b262a4db5547b4baf390de8"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "6c958d968de367f05f7a6b790609f22076b3910c"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "39171d7f4db509f392b1d49696bc0b7e0f1f46b8"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "4925dcc1cf7564cd18d10bf5fb4ced7bc77e661c"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "a23d10b7f93144b877fd53445ca33ee938498ff1"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Italic.ttf",
+      "sha1": "2ff6c8d3a64ccd9f3c85dc7eef16a818af7075bc"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Light.ttf",
+      "sha1": "08e510137064a3c9859b71cff5b999fe8c351e67"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-LightItalic.ttf",
+      "sha1": "1224ee16a3a9807ca5e89fba1c8fd4132565735b"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Medium.ttf",
+      "sha1": "ca42fe10fa893f390472859405c7564095e4260f"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-MediumItalic.ttf",
+      "sha1": "2880cdec269b3e70365a0a41a39e16c0608d1ad5"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Regular.ttf",
+      "sha1": "ff1eb5d360a42c0c675d8ecfca9a3e5b709d302a"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "4ef29a9163b56df34a3486b98b24be3a3d0cdca6"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "2ace9e4e1e9fd4d82f9de86d5acf1407518e0c3f"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-Thin.ttf",
+      "sha1": "cee83df1ec6934794d570d12e94397d5b5ca5fb5"
+    },
+    {
+      "path": "app/theme/fonts/Montserrat-ThinItalic.ttf",
+      "sha1": "62dcb447998b27a83872d75439ce35124fe08aa7"
+    },
+    {
+      "path": "app/theme/fonts/Octicons.ttf",
+      "sha1": "28875874413503bcc0810ea2a44dc1b8312c665a"
+    },
+    {
+      "path": "app/theme/fonts/SIL Open Font License.txt",
+      "sha1": "ca5475c1f4d2cb15956daba19f13fb34a83601e4"
+    },
+    {
+      "path": "app/theme/fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "app/theme/fonts/Zocial.ttf",
+      "sha1": "0bda59c7bcd3d3927de047e091875a4428bfd1ab"
+    }
+  ]
+}

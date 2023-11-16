@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-8025750069627773559-42990",
+  "private_key_id": "699343a8db2a741eae0416d7120f113f0bb853f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDWJbplOUL1dbcw\ntl3wdfd+quMULmBxSHz0sTghjV8+Vx2VVyhpOFcp2qIbQcnKO34hmbOMFqBhgzqC\nnAywWKGqqKnwaArCr5p6PGP9tOGicC2w2fkQUrknBg6c1RDIQ0KQWnXYEv7uOvgb\ntxS+0h2EYBAkCGy/zYFZABz5YT/61YEUiYtYpAOSF5aUgjBm5ELuYm7Q2duHizK6\nL/2IcXBm2NmIX1IBZS6lvDAsW3wWDLboNO/QSFTFFxkJ7stLiipxlOGNZcOSP6Qz\nd7a5agMIQhG1RPzRteCz+SbtkGL6TDa7CzdeYmPRf1cGzTAfSX5C1qWVudUBW+Xc\nyKbf/60dAgMBAAECggEADNGFfV18BYCLm+Sarb6zTHd9sBL7mQ8B/c1QOGqY3tIs\n9j1um5Jwsz5qptoyskKKkQfShcpCmjurna7/b8c1EX0BmR9H35yj0PklnMWTnlsm\nfQLQhA/ePziqA2zEkabnCIgwVs6s8wUqyKaWR7rWOKWIac5q9gs0LifnKW1PEgb9\ncTtX9Ch+8mixtIOOMqmDde4SJT/a+foxrWx2l7eeoo9XBG7MbsPG6XRY+j0Fxt+h\nC3267MJxbykOehbXfKR1Pv4ASnDZlzbe9IeH3mZ0pqKApQ10LX/NrhAWxDtHMztZ\n8qqNavp/gp/ak8thiEitM/cu0S7WWuU8jSxn7avLGQKBgQD4XgXC4uAudNfOK0lY\n6/X3eIchtvLLtJGa9obX4JbqrzqQ/dl2rFTzVQqb0irKG5RUhftwfVm+0kWdmYYq\nwYyFMcEl1Bf7MNZcOrDAJo0DUph2Cm17TXyaJmnJFaKVd5SNobOqa5yd8rLdxezD\n0TV9TUcn8pP8TZHa4746JbtO2QKBgQDcunzah+NbHE35cEIfJWAQNc9J8qqaLPcE\nFCha0sjf1k1HAY3HLKfA8TGsdZkwGzbEiLr5Tq1WV8Lv5eUgzcZ3dUSM9Er9rOlM\ny+WwmEqGYQee3INBFq3j2qvmlKagppx1Se0djTiPzUZqftuVY+NB19k8MVWA+FYZ\nlePbNYYt5QKBgHJ1Ef6gA2QlYJaYiDK8exvSpaO55eZOjpN1bOrri2EX48uR0LfJ\n71Q8Kqloj2OYliDlpdxPSB6SVJaue5AUpidzqGlAdtTByuex/GZw3adcVvp/D7k1\nGmkHrtSGbeintQQYMu4krYZ0pE1juxr6vMXD6TjVp7EsJj1TmwS9ArbxAoGAbbIY\nfppt+Ue10LNjiQsQFL5JSFzbQEf8cwB5lbmPrv5X5WP2S/f7Xr3/i8/d07SSoVW6\nZlAdgP2YmZTNLGJXseKLsOlvo2adg1cJzZvB3cq2+NJqQJy+yrBQIgXaUZi7xOZ6\neudGJuFDj4WAJ1w/Auf8xBdYgQHp+Ekvti+BgakCgYB5QScajxnHItWTNTQbxRuq\n32yo1tpmpjwkKa0dXNqVf12/1zEi+RthJKnw7/R5pq2ZKpu/K96NhqSdphrxavro\nfzJEX0daLkxas/WVP+AG1WxPQeyFpkEWG2iMcF6LnrILBIFGD2J6X5qlias6gZh6\nt78RegF0Pc85cU0oXpSm9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "boothgenie-mobile@api-8025750069627773559-42990.iam.gserviceaccount.com",
+  "client_id": "107289914560486585729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boothgenie-mobile%40api-8025750069627773559-42990.iam.gserviceaccount.com"
+}

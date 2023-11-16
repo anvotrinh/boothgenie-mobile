@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666337367036",
+    "firebase_url": "https://boothgenie-b51da.firebaseio.com",
+    "project_id": "boothgenie-b51da",
+    "storage_bucket": "boothgenie-b51da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666337367036:android:d97e7966960e7b11249879",
+        "android_client_info": {
+          "package_name": "com.boothgenie.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666337367036-udcr2h0uc4cjd1oesnufj0tbbs29bfnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXNE_VzXWHl6HKaHD-rYc7S0W0ty415E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666337367036-udcr2h0uc4cjd1oesnufj0tbbs29bfnm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666337367036-jqaql6tnm9dpjbn9emu73p6fcqo1uqmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boothgenie.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

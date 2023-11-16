@@ -1,0 +1,21 @@
+{
+  "strict": {
+    "text-font-family": "Inter"
+  },
+  "components": {
+    "Datepicker": {
+      "appearances": {
+        "default": {
+          "variantGroups": {
+            "size": {
+              "medium": {
+                "textFontWeight": "500",
+                "textFontSize": 14
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

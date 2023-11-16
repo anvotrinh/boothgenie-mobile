@@ -1,0 +1,8 @@
+app_identifier("com.boothgenie.mobile") # The bundle identifier of your app
+apple_id("tiennguyen.ftu.k52@gmail.com") # Your Apple email address
+
+itc_team_id("120872748") # App Store Connect Team ID
+team_id("Q58TW8VZ3S") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
